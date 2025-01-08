@@ -17,7 +17,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "/cornvm"
+					"path": "/cvm"
 				}
 			}
 		},
@@ -34,7 +34,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "/cornvl"
+					"path": "/cvl"
 				}
 			}
 		}
